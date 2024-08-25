@@ -1,4 +1,4 @@
 paritition-experiments
 ----------------------
 
-A variety of experiments with partition.
+A variety of experiments with the partition method from Quicksort.
